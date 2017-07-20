@@ -4,7 +4,7 @@
   "description": "A Discord SpamBot in NodeJS",
   "main": "spam.js",
   "scripts": {
-    "start": "node hope.js"
+    "start": "node spam.js"
   },
   "author": "",
   "license": "ISC",
