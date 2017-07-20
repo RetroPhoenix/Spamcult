@@ -4,7 +4,7 @@
   "description": "A Discord SpamBot in NodeJS",
   "main": "spam.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node hope.js"
   },
   "author": "",
   "license": "ISC",
